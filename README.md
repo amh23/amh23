@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aye Mya Han
 ===================================================================================================================================
 
-Javascript Developer
+Full Stack Developer
 --------------------
 
 I've been learning code for years and I've started to found a passion for coding with javascript. So I choose MERN stack development and I also learn other javascript framework like vue.js, angularjs to get to know how they work.
