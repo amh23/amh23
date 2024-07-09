@@ -9,7 +9,7 @@ I've been learning code for years and I've started to found a passion for coding
 * 🌍  I'm based in Myanmar (Burma)
 * ✉️  You can contact me at [ayemyahan23@gmail.com](mailto:ayemyahan23@gmail.com)
 * 🚀  I'm currently working on [The project which collects questions in the event.](http://github.com/amh23/allears.git)
-* 🧠  I'm learning React
+* 🧠  I'm learning Cloud.
 * 🤝  I'm open to collaborating on MERN stack or Other Javascript Framework
 * ⚡  I love quotes and I'd like to listen to songs while driving.
 
